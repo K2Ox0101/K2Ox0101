@@ -1,6 +1,6 @@
 <h1>Hi, I'm Navid! 
 <br>  
-<a href="https://www.linkedin.com/in/navidn">Cybersecurity Professional</a> & <a href="https://www.known2own.com">Digital Music Composer</a></h1>
+<a href="https://www.linkedin.com/in/navidn">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Certifications:</h2>
 
@@ -18,7 +18,7 @@ SecurityBlueTeam BLT1 (expected Q2 2022)</b>
 - 🔭 I’m currently working on SecurityBlueTeam BLT1
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: LinkedIn/Email
-- ⚡ Fun fact: I am not a bot.
+- ⚡ Fun fact: I'm also a <a href="https://www.known2own.com">Digital Music Composer</a></h1>
 
 
 <!--- 
