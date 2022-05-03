@@ -1,6 +1,6 @@
 <h1>Hi, I'm Navid! 
 <br>  
-<a href="https://www.linkedin.com/in/navidn">Cybersecurity Professional</a>
+<a href="https://www.linkedin.com/in/navidn">Cyber Security Professional</a>
 
 <h2>👨‍💻 Certifications:</h2>
 
@@ -27,7 +27,7 @@ SecurityBlueTeam BLT1 (expected Q2 2022)</b>
 - ⚡ Fun fact: I'm also a <a href="https://www.known2own.com">Digital Music Composer</a></h1>
 
 <b><h2>My story</h2></b>
-I was one of the lucky ones that was born into the gentle arms of technology. I was a highly competitive gamer (FPS games) and wanted the best machines to game on so by the age of 16 I was already building computers & selling them on ebay/craigslist. By the age of 25 I was a certified network engineer via Cisco CCNA studies & home labs rocking the old catalyst switches/routers. Trying out various commands in the IOS to test out techniques like spanning tree protocol to avoid endless loops. From there I started dipping my toes in hacking & cyber security topics. I graduated from CSUDH in 2019 at the age of 30 with my bachelors in cyber security along with my security+ certification. I went on to work for SpaceX for awhile which was really cool then moved onto working for other places further sharpening my skillsets. In 2022 I obtained my CySA+ while working as a cyber security analyst for the City of LA. I look forward to what the future has in store for me!
+I was one of the lucky ones that was born into the gentle arms of technology. I was a highly competitive gamer (FPS games) and wanted the best machines to game on so by the age of 16 I was already building computers & selling them on ebay/craigslist. By the age of 25 I was a certified network engineer via Cisco CCNA studies & home labs rocking the old catalyst switches/routers. Trying out various commands in the IOS to test out techniques like spanning tree protocol to avoid endless loops. From there I started dipping my toes in hacking & cyber security topics. I graduated from CSUDH in 2019 at the age of 30 with my bachelors in cyber security along with my security+ certification. I went on to work for SpaceX for awhile which was really cool then moved onto working for other places further sharpening my skillsets. In 2022 I obtained my CySA+ while working as a cyber security analyst for the City of LA. I feel this is only the beginning & I look forward to what the future has in store for me!
 <!--- 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
