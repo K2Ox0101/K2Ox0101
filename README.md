@@ -13,6 +13,12 @@
 <b>RangeForce SOC Analyst 1 Elite
 <br>
 SecurityBlueTeam BLT1 (expected Q2 2022)</b>
+  
+  <h2>👨‍💻 Degrees:</h2>
+  
+  <b>Associate of Arts in Computer Information Systems from El Camino College</b><br>
+  <b>Bachelors of Science in Cyber Security from Cal State University Dominguez Hills</b><br>
+  <b>Masters Degree (wip) from WGU</b><br>
 
 
 - 🔭 I’m currently working on SecurityBlueTeam BLT1
