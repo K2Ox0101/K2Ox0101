@@ -20,7 +20,9 @@ SecurityBlueTeam BLT1 (expected Q2 2022)</b>
 - 📫 How to reach me: LinkedIn/Email
 - ⚡ Fun fact: I'm also a <a href="https://www.known2own.com">Digital Music Composer</a></h1>
 
-
+<b>My story:</b>
+<br>
+I was one of the lucky ones that was born into the gentle arms of technology. I was a highly competitive gamer (Counter-Strike anyone?) and wanted the best machines to game on so by the age of 16 I was already building computers & selling them on ebay/craigslist. By the age of 25 I was a certified network engineer via Cisco CCNA studies & home labs rocking the old catalyst switches. Trying out various commands in the IOS to test out techniques like spanning tree protocol to avoid endless traffic loops. From there I started dipping my toes in hacking and cyber security topics. I graduated from CSUDH in 2019 at the age of 30 with my bachelors in cyber security along with my security+ certification. I went on to work for SpaceX for awhile which was really cool then moved onto working for other places further sharpening my skillsets. In 2022 I obtained my CySA+ while working as a contractor for local government (City of LA) and looking forward to what the future has in store for me!
 <!--- 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
