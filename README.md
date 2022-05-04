@@ -5,16 +5,22 @@
 <h2>👨‍💻 Certifications:</h2>
 
 <b>Cisco CCNA</b>
+  
 <b>CompTIA Security+</b>
+
 <b>CompTIA CySA+</b>
+
 <b>RangeForce SOC Analyst 1 Elite
+
 SecurityBlueTeam BLT1 (expected Q2 2022)</b>
 
   <h2>👨‍💻 Degrees:</h2>
   
-  <b>Associates of Arts in Computer Information Systems (El Camino College)<br>
-     Bachelors of Science in Cyber Security (CSUDH)<br>
-     Masters of Science in Cyber Security (WGU-WIP)<br>
+  <b>Associates of Arts in Computer Information Systems (El Camino College)
+     <br>
+     Bachelors of Science in Cyber Security (CSUDH)
+     <br>
+     Masters of Science in Cyber Security (WGU-WIP)
     
 
 - 🔭 I’m currently working on SecurityBlueTeam BLT1
