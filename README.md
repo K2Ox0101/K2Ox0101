@@ -5,13 +5,9 @@
 <h2>👨‍💻 Certifications:</h2>
 
 <b>Cisco CCNA</b>
-<br>
 <b>CompTIA Security+</b>
-<br>
 <b>CompTIA CySA+</b>
-<br>
 <b>RangeForce SOC Analyst 1 Elite
-<br>
 SecurityBlueTeam BLT1 (expected Q2 2022)</b>
 
   <h2>👨‍💻 Degrees:</h2>
