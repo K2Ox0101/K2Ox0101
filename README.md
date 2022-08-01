@@ -12,7 +12,7 @@
 
 <b>RangeForce SOC Analyst 1 Elite
 
-SecurityBlueTeam BLT1</b>
+SecurityBlueTeam BTL1</b>
 
 <b>ISC2 CISSP (Expected Q4 2022)</b>
 
