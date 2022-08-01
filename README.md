@@ -14,7 +14,7 @@
 
 SecurityBlueTeam BLT1</b>
 
-ISC2 CISSP (Expected Q4 2022)
+<b>ISC2 CISSP (Expected Q4 2022)</b>
 
   <h2>👨‍💻 Degrees:</h2>
   
