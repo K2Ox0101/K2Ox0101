@@ -1,4 +1,4 @@
-<h1>Hi, I'm Navid! 
+<h1>Hi, I'm David! 
 <br>  
 <a href="https://www.linkedin.com/in/navidn">Cyber Security Professional</a>
 
@@ -14,7 +14,7 @@
 
 SecurityBlueTeam BTL1</b>
 
-<b>ISC2 CISSP (Expected Q4 2022)</b>
+<b>ISC2 CISSP</b>
 
   <h2>👨‍💻 Degrees:</h2>
   
@@ -28,10 +28,10 @@ SecurityBlueTeam BTL1</b>
 - 🔭 I’m currently working on ISC2 CISSP
 - 🌱 I’m currently learning Python (Scripting)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/navidn">LinkedIn</a>
-- ⚡ Fun fact: I'm also a life long martial artist, gamer & music producer</h1>
+- ⚡ Fun fact: I'm also a life long martial artist (muay thai), music producer, and gamer.</h1>
 
 <b><h2>My story</h2></b>
-I was one of the lucky ones to be born into the gentle arms of technology. I was a highly competitive gamer growing up (FPS games) & wanted the best machines to game on so by age 16 I was already building computers & selling them on ebay/craigslist. By age 25 I was a certified network engineer via Cisco CCNA studies & home labs rocking the old catalyst switches/routers. From there I started dipping my toes into hacking & cyber security. I graduated from CSUDH in 2019 with my bachelors in cyber security along with my security+ certification. I went on to work for SpaceX post-grad which was really cool. In 2022 I obtained my CySA+ while working as a cyber security analyst for the City of LA. I currently work for UCI as their Information Security Architect while studying for the CISSP.
+I was one of the lucky ones to be born into the gentle arms of technology. I was a highly competitive gamer growing up (FPS games) & wanted the best machines to game on so by age 16 I was already building computers & selling them on ebay/craigslist. By age 25 I was a certified network engineer via Cisco CCNA studies & home labs rocking the old catalyst switches/routers. From there I started dipping my toes into hacking & cyber security. I graduated from CSUDH in 2019 with my bachelors in cyber security along with my security+ certification. I went on to work for SpaceX post-grad which was really cool! In 2022 I obtained my CySA+ and SecurityBlueTeam BTL1 while working as a cyber security analyst for the City of LA. Soon thereafter I landed a contract with UCI as their Information Security Architect and during that time I studied and passed the infamous CISSP.
   <br><br>
   I feel like this is only the beginning! :)
 <!--- 
