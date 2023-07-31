@@ -25,7 +25,7 @@ SecurityBlueTeam BTL1</b>
      Masters of Science in Cyber Security (WGU-WIP)
     
 
-- 🔭 I’m currently working on AWS/Azure Certifications
+- 🔭 I’m currently working on AWS/Azure Certifications (Cloud Technologies)
 - 🌱 I’m currently learning Python (Scripting/Automating)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/navidn">LinkedIn</a>
 - ⚡ Fun fact: I'm a life long martial artist (muay thai), music producer, and competitive gamer.</h1>
