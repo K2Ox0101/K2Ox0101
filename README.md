@@ -4,6 +4,8 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
+<b>ISC2 CISSP</b>
+
 <b>Cisco CCNA</b>
   
 <b>CompTIA Security+</b>
@@ -13,8 +15,6 @@
 <b>RangeForce SOC Analyst 1 Elite
 
 SecurityBlueTeam BTL1</b>
-
-<b>ISC2 CISSP</b>
 
   <h2>👨‍💻 Degrees:</h2>
   
