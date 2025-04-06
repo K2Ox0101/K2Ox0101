@@ -10,6 +10,8 @@
   
 <b>CompTIA Security+</b>
 
+<b>CompTIA CASP+</b>
+
 <b>CompTIA CySA+</b>
 
 <b>RangeForce SOC Analyst 1 Elite
@@ -25,13 +27,13 @@ SecurityBlueTeam BTL1</b>
      Masters of Science in Cyber Security (WGU-WIP)
     
 
-- 🔭 I’m currently working on learning various security solutions (Exabeam/Okta/Crowdstrike Falcon/Duo/etc.)
-- 🌱 I’m currently studying for the CRISC (Risk Management Certification)
+- 🔭 I’m currently working on third party risk assessments, risk mitigation tactics, and much more.
+- 🌱 I’m currently studying for the CISA (Auditing Certification)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/navidn">LinkedIn</a>
 - ⚡ Fun fact: I'm a life long martial artist (muay thai), music producer, and competitive gamer.</h1>
 
 <b><h2>My story</h2></b>
-I was one of the lucky ones to be born into the gentle arms of technology. I was a highly competitive gamer growing up (FPS games) & wanted the best machines to game on so by age 16 I was already building computers & selling them on ebay/craigslist. By age 25 I was a certified network engineer via Cisco CCNA studies & home labs rocking the old catalyst switches/routers. From there I started dipping my toes into hacking & cyber security. I graduated from CSUDH in 2019 with my bachelors in cyber security along with my security+ certification. I went on to work for SpaceX post-grad which was really cool! In 2022 I obtained my CySA+ and SecurityBlueTeam BTL1 while working as a cyber security analyst for the City of LA. Soon thereafter I landed a contract with UCI as their Information Security Architect and during that time I studied and passed the infamous CISSP exam. I currently work as a cyber security engineer II for Credit One Bank.
+I was born into the gentle arms of technology. I was a highly competitive gamer growing up (FPS games) & wanted the best machines to game on so by age 16 I was already building computers & selling them on ebay/craigslist. By age 25 I was a certified network engineer via Cisco CCNA studies working with catalyst switches and routers. From there I started dipping my toes into hacking & cyber security. I graduated from CSUDH in 2019 with my bachelors in cyber security along with my security+ certification. I went on to work for SpaceX post-grad. In 2022 I obtained my CySA+ and SecurityBlueTeam BTL1 while working as a cyber security analyst for the City of LA. Soon thereafter I landed a contract with UCI as their Information Security GRC Architect and during that time I studied and passed the infamous CISSP exam. I currently work as a GRC Risk Analyst for University Office Of The President and plan to obtain the ISACA CISA certification in late 2025.
   <br><br>
   I feel like this is only the beginning! :)
 <!--- 
