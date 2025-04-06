@@ -27,7 +27,7 @@ SecurityBlueTeam BTL1</b>
      Masters of Science in Cyber Security (WGU-WIP)
     
 
-- 🔭 I’m currently working on third party risk assessments, risk mitigation tactics, and much more.
+- 🔭 I’m currently working on third party risk management, vendor risk assessments, risk mitigation tactics, and much more.
 - 🌱 I’m currently studying for the CISA (Auditing Certification)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/navidn">LinkedIn</a>
 - ⚡ Fun fact: I'm a life long martial artist (muay thai), music producer, and competitive gamer.</h1>
